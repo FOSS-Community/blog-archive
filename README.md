@@ -105,12 +105,13 @@ Have a good read 📖
 
 <section id="H">
   <h1>H</h1>
-  
+  <a href="https://fosscu-blog.vercel.app/posts/how-to-compare-dates-in-javascript"><p>How to compare dates in JavaScript</p></a>
 </section>
 
 <section id="I">
   <h1>I</h1>
-  
+   <a href="https://fosscu-blog.vercel.app/posts/installing-go-on-a-mac"><p>Installing Go on a Mac</p></a>
+   <a href="https://fosscu-blog.vercel.app/posts/introducing-astro"><p>Introducing Astro: Ship Less JavaScript</p></a>
 </section>
 
 <section id="J">
