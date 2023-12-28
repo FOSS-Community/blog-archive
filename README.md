@@ -204,3 +204,11 @@ Have a good read 📖
 </section>
 
 </div>
+
+<br>
+
+<h2 id="guidelines">Guidelines</h2>
+<p>Refer <a href="https://github.com/FOSS-Community/blog-archive/blob/main/GUIDELINES.md">rules</a></p>
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>  
